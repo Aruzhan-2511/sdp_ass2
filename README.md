@@ -1,6 +1,6 @@
 # Dance Studio - Factory Method & Abstract Factory 
 ## Project Description
-This project demonstrates two creational design patterns: factory Method and Abstract Factory Method. 
+This project demonstrates two creational design patterns: factory Method and Abstract Factory. 
 The system creates dance classes and outfits for two dance styles: Ballet and Hip-Hop.
 
 
