@@ -17,7 +17,7 @@ public class Main {
     private static void runDanceStudio(IDanceStudioFactory factory){
         IDanceClass danceClass = factory.createDanceClass();
         IDanceOutfit danceOutfit = factory.createDanceOutfit();
-        danceClass.startClass();;
+        danceClass.startClass();
         danceOutfit.wearOutfit();
     }
 }
